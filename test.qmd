@@ -6,7 +6,7 @@ editor: visual
 
 ## Quarto
 
-Quarto enables y ter content and executable code into a finished document.
+Quarto enables er content and executable code into a finished document.
 To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
